@@ -1,0 +1,1 @@
+After running once change the length of the RayShape in the editor to 2 and change the script to set the length to 5. When you run it again you'll nortice pressing return doesn't make it find the collision
